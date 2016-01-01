@@ -1,0 +1,6 @@
+{
+  "esnext": true,
+  "globals": ["console"],
+  "strict": false,
+  "-W097": true
+}
